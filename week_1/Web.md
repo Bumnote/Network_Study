@@ -8,6 +8,8 @@
 
 ![Client_Server](https://velog.velcdn.com/images%2Fseul06%2Fpost%2F38c9b3af-d674-44c9-a0a1-4e394e1d36bf%2F%E1%84%89%E1%85%A5%E1%84%87%E1%85%A5%E1%84%8B%E1%85%AA%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A5%E1%86%AB%E1%84%90%E1%85%B3.png "클라이언트와 서버의 동작과정")
 
+덧붙여서, 클라이언트와 서버의 양방향으로 통신하는 Application을 **클라이언트-서버 어플리케이션**이라고 하고, 서버를 거치지 않고 클라이언트끼리 직접 데이터를 주고받는 Application을 **피어투피어(PeerToPeer) 어플리케이션**이라고 한다.
+
 <hr>
 
 ## **HTTP (Hypertext Transfer Protocol)**
